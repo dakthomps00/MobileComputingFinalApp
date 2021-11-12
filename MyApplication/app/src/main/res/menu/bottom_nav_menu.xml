@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_Home"
+        android:enabled="true"
+        android:icon="@drawable/iconfinder_home_326656"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_Videos"
+        android:enabled="true"
+        android:icon="@drawable/iconfindericonplay211876"
+        android:title="Videos"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_Resources"
+        android:enabled="true"
+        android:icon="@drawable/iconfinder_book_2561345"
+        android:title="Resources"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_Tips"
+        android:enabled="true"
+        android:icon="@drawable/iconfinderexclamationmarkroundsigncaution3643776"
+        android:title="Tips"
+        app:showAsAction="ifRoom" />
+</menu>

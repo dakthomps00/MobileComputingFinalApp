@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Help!</string>
+    <string name="call">Call</string>
+    <string name="text">Text</string>
+    <string name="emergency">Call Emergency Services</string>
+    <string name="changecntct">Change Emergency Contact</string>
+    <string name="go">Go!</string>
+    <string name="follow">you are Being Followed?</string>
+    <string name="roadrage">you are In a Road Rage Situation?</string>
+    <string name="whtodo">What to do if...</string>
+    <string name="stalk">you are being stalked?</string>
+    <string name="drugged">suspect you have been drugged?</string>
+    <string name="injured">if you or someone else has been injured?</string>
+    <string name="suggest">Feedback</string>
+</resources>
